@@ -78,3 +78,4 @@ function fadeIn(el, display) {
         }
     })();
 };
+    alert("Welcome To Dwi Se Official Page");
